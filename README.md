@@ -2,7 +2,7 @@
 Easily manage AI context for your projects using the Memory Bank technique. 
 
 ## Setup
-This workflow can be set up in two ways: you can install it in a project or in all of Cursor.
+This workflow can be set up in two ways: you can install it in a project or globally in Cursor.
 
 ### In a project
 1. Press ``shift+cmd+P``
