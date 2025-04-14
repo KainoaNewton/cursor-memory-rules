@@ -1,3 +1,6 @@
+> [!NOTE]  
+> I don't use this anymore, now I just use cursor normally for smaller projects and when it gets stuck, or I'm on a bigger project, I use [Augment Code](https://www.augmentcode.com/).
+
 # Cursor Memory
 Easily manage AI context for your projects using the Memory Bank technique. 
 
